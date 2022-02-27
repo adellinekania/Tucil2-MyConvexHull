@@ -2,6 +2,7 @@
 
 ## Convex Hull Implementation Using Divide & Conquer Algorithm
 
+Adelline Kania Setiyawan / K03 / 13520084
 ```
 TUGAS KECIL 2 - Algorithm Strategies IF2211
 Bandung Institute of Technology
