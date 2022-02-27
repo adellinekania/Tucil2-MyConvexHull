@@ -30,7 +30,9 @@ This program is a program to determine the convex hull of a particular dataset. 
   ```
 - Run python main.py file
   In the src/py folder
+  ```
   $ py main.py
+  ```
 - Enter the input in the form of an integer with the range requested by the program
 
 ### Using Jupyter Notebook
