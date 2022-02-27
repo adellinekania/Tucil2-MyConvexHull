@@ -28,8 +28,8 @@ This program is a program to determine the convex hull of a particular dataset. 
   ```
   $ git clone https://github.com/adellinekania/Tucil2-MyConvexHull
   ```
-- Run python main.py file
-  In the src/py folder
+- Run python `main.py` file
+  In the `src/py` folder
   ```
   $ py main.py
   ```
@@ -37,7 +37,7 @@ This program is a program to determine the convex hull of a particular dataset. 
 
 ### Using Jupyter Notebook
 
-- Install myConvexHull.ipynb file on src/ipynb folder
+- Install `myConvexHull.ipynb` file on `src/ipynb` folder
 - Open it on your jupyter notebook
 - Run all code
 - Enter the input in the form of an integer with the range requested by the program
